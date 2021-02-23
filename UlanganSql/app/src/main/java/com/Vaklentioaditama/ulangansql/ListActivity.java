@@ -1,4 +1,4 @@
-package com.alvanhanani.a03_alvanulangansql;
+package com.alvanhanani.ulangansql;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,6 +15,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
+import com.alvanhanani.a03_alvanulangansql.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 

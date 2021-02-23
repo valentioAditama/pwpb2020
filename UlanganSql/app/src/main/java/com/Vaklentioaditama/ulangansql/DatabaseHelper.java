@@ -1,4 +1,4 @@
-package com.alvanhanani.a03_alvanulangansql;
+package com.alvanhanani.ulangansql;
 
 import android.content.ContentValues;
 import android.content.Context;

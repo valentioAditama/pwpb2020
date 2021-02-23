@@ -1,4 +1,4 @@
-package com.alvanhanani.a03_alvanulangansql;
+package com.alvanhanani.ulangansql;
 
 import android.app.Activity;
 import android.content.Context;
@@ -14,6 +14,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.alvanhanani.a03_alvanulangansql.R;
 import com.google.android.material.snackbar.Snackbar;
 
 import java.util.List;

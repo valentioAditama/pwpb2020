@@ -1,4 +1,4 @@
-package com.alvanhanani.a03_alvanulangansql;
+package com.alvanhanani.ulangansql;
 
 public class NoteModel
 {

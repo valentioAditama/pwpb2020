@@ -1,9 +1,11 @@
-package com.alvanhanani.a03_alvanulangansql;
+package com.alvanhanani.ulangansql;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.app.Activity;
+
+import com.alvanhanani.a03_alvanulangansql.R;
 
 
 public class Splashscreen extends Activity {
